@@ -37,6 +37,10 @@
 总共提交1次，在Kaggle平台上得到准确率：
 >准确率 = 99.057%<br/>
 
+结果截图如下图所示：
+
+![image](https://github.com/ChaseXuan/digit-recognizer/blob/master/result/result.png)
+
 #### 试比较实验中使用的不同参数效果，并分析原因。
 1. batch_size批量大小决定我们一次训练的样本数目，将影响到模型的优化程度和速度。batch_size的正确选择是为了在内存效率和内存容量之间寻找最佳平衡。
 ```
